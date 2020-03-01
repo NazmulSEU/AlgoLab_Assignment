@@ -5,20 +5,34 @@
 In linear algebra, a symmetric matrix is a square matrix that is equal to its transpose. Formally, Because equal matrices have equal dimensions, only square matrices can be symmetric. The entries of a symmetric matrix are symmetric with respect to the main diagonal.
 
 Example 1:  
------------------------
- - input       output
-  1 2 3         1 4 7
-  4 5 6         2 5 8
-  7 8 9         3 6 9
+----------
+ - input       <br>
+  1 2 3        <br>   
+  4 5 6        <br> 
+  7 8 9        <br>
   
+  - output     <br>
+  1 4 7        <br>
+  2 5 8        <br>
+  3 6 9        <br>
+   
+   
+   
 It is not a symmetric matrix. Cause, New matrix is not looks like same of the given matrix
 
 Example 2:
 -----------------------
- - input       output
-  1 0 0         1 0 0
-  0 1 0         0 1 0 
-  0 0 1         0 0 1
+ - input        <br>       
+  1 0 0         <br>      
+  0 1 0         <br>       
+  0 0 1         <br>     
+  
+  
+ - output       <br>
+  1 0 0         <br>        
+  0 1 0         <br>
+  0 0 1         <br>
+  
 
 It is a symmetric matrix. 
 
