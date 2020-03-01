@@ -7,8 +7,8 @@ In linear algebra, a symmetric matrix is a square matrix that is equal to its tr
 Example 1:  
 ----------
  - input       <br>
-  1 2 3        <br>   
-  4 5 6        <br> 
+  1 2 3        <br>
+  4 5 6        <br>
   7 8 9        <br>
   
   - output     <br>
@@ -22,14 +22,14 @@ It is not a symmetric matrix. Cause, New matrix is not looks like same of the gi
 
 Example 2:
 -----------------------
- - input        <br>       
-  1 0 0         <br>      
-  0 1 0         <br>       
-  0 0 1         <br>     
+ - input        <br>
+  1 0 0         <br>
+  0 1 0         <br>
+  0 0 1         <br> 
   
   
  - output       <br>
-  1 0 0         <br>        
+  1 0 0         <br>
   0 1 0         <br>
   0 0 1         <br>
   
